@@ -9,7 +9,6 @@ I'm fairly new to coding, I got more invested in the area  since October 2022, w
 Feel free to take a look.
 
 <h1 style="text-align: center;">42 School Progress</h1>
-Some content
 <p align=center>
 Down below is my 42 Lisboa Badge, where you can see my progress as a student :D 
 
