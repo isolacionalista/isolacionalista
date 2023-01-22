@@ -28,7 +28,7 @@ Here are some of my Statistics inside Github, such as number of commits.
 <img src="https://github-readme-stats.vercel.app/api?username=isolacionalista&show_icons=true&theme=tokyonight"](https://github.com/isolacionalista/github-readme-stats)/>
 </div>
 
-<h1 style="text-align: center;">Thank you :D</h1>
+<h3 style="text-align: center;">Thank you :D</h3>
 
 <div align="center">
 <img src="https://github.com/isolacionalista/isolacionalista/blob/main/giphy.gif"]/>
