@@ -15,7 +15,7 @@ Down below is my 42 Lisboa Badge, where you can see my progress as a student :D
 
 <div align="center">
 <img src="https://badge42.vercel.app/api/v2/cld7udkhj01910fl5tom622dy/stats?cursusId=21&coalitionId=109"](https://github.com/JaeSeoKim/badge42)
-     </div>
+</div>
 
 <h1 style="text-align: center;">My GitHub's Statistics</h1>
 Some content
