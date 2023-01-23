@@ -3,7 +3,7 @@
 
 <p align=center>
 Halo. My name is Isis Mendonça, I'm a 20 y/o, portuguese 42 Lisboa student.  
-I'm fairly new to coding, I got more invested in the area  since October 2022, when I got accepted at 42. Until now, my repositories consist of the school's projects (C Language). However, I'm really looking forward to start some projects by my own :)  
+I'm fairly new to coding, I got more invested in the area  since October 2022, when I got accepted at 42. Until now, my repositories consist of the school's projects (C Language). However, I'm really looking forward to start some projects on my own :)  
   
 <p align=center>
 Feel free to take a look.
